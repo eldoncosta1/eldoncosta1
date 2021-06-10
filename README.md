@@ -1,4 +1,6 @@
-### Hi there 👋
+# Eldon Costa 👋
+
+Analista de BI na Paraty Atacado e Distribuidora LTDA.
 
 <!--
 **eldoncosta1/eldoncosta1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-Eldon%20Costa-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eldon-costa-a6ab08104/)](https://www.linkedin.com/in/eldon-costa-a6ab08104/) 
+[![Gmail Badge](https://img.shields.io/badge/-eldon.costa@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eldon.costa@gmail.com)](mailto:eldon.costa@gmail.com)
+
+
+
+Entusiasta no desenvolvimento de soluções web inovadoras aplicando metodologias ágeis no processo, escrita acessível e constante evolução no aprendizado.
