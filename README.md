@@ -1,6 +1,6 @@
 # Olá, eu sou Eldon Costa 🚀🚀
 
-Analista de BI na Paraty Atacado e Distribuidora LTDA.
+Desenvolvedor Pleno na Compasso UOL
 
 <!--
 **eldoncosta1/eldoncosta1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
