@@ -21,7 +21,11 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-Eldon%20Costa-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eldon-costa-a6ab08104/)](https://www.linkedin.com/in/eldon-costa-a6ab08104/) 
 [![Gmail Badge](https://img.shields.io/badge/-eldon.costa@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eldon.costa@gmail.com)](mailto:eldon.costa@gmail.com)
 
-
+<div align="center">
+<a href="https://github.com/eldoncosta1">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eldoncosta1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldoncosta1&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 Entusiasta no desenvolvimento de soluções web inovadoras aplicando metodologias ágeis no processo, escrita acessível e constante evolução no aprendizado.
 
