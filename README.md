@@ -1,6 +1,6 @@
 # Olá, eu sou Eldon Costa 🚀🚀
 
-Desenvolvedor Pleno na Compasso UOL
+Desenvolvedor Sênior at Let's Code
 
 
 Entusiasta no desenvolvimento de soluções web inovadoras aplicando metodologias ágeis no processo, escrita acessível e constante evolução no aprendizado.
