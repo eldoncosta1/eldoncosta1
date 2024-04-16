@@ -1,6 +1,6 @@
 # Olá, eu sou Eldon Costa 🚀🚀
 
-Desenvolvedor Sênior at Let's Code
+Desenvolvedor Sênior at Ada Tech (https://ada.tech/)
 
 
 Entusiasta no desenvolvimento de soluções web inovadoras aplicando metodologias ágeis no processo, escrita acessível e constante evolução no aprendizado.
