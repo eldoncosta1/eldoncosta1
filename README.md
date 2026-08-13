@@ -1,6 +1,6 @@
 # Olá, eu sou Eldon Costa 🚀🚀
 
-Desenvolvedor Sênior at Ada Tech (https://ada.tech/)
+Engenheiro de Software | https://studioeben.com/
 
 
 Entusiasta no desenvolvimento de soluções web inovadoras aplicando metodologias ágeis no processo, escrita acessível e constante evolução no aprendizado.
